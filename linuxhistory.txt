@@ -1,0 +1,26 @@
+LINUX began in 1991 as a personal project by Finnish student Linus Torvalds:
+to create a new free operating system kernel. The reulting LINUX kernel has
+been marked by constant growth throghout  history. Since the in release
+of  source code in 1991,  has grown from a small number of C files under
+a license prohib commercial distribution to the 4.15 version in 2018 w
+more than 23.3 million lines of source code, not counting comments, under
+the GNU general Public License v2
+
+After AT&T had dropped out of the Multics project, the Unix operating system
+was conceived and implemented by Ken Thompson and Dennis R (both of
+AT&T BEll Lavoratories) in 1969 and first released in 1970. Later they rewrote
+ in a new programming language, C, to make  portable. The availabil and
+portabil of Unix caused  to be widely adopted, copied and modified by 
+academic inst and businesses
+
+2021076020
+2021076020
+2021076020
+2021076020
+2021076020
+2021076020
+2021076020
+2021076020
+2021076020
+2021076020
+2021076020
